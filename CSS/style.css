@@ -1,26 +1,3 @@
-/* .navigation {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: sticky;
-    top: 0;
-    cursor: pointer;
-    background: lightsalmon;
-    height: 150px;
-    width: 100%;
-}
-
-.navigation a{
-    float: left;
-    padding: 12px;
-    color: rgb(164, 93, 192);
-    text-decoration: none;
-    font-size: xx-large;
-    width: 25%; 
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-} */
 .navigation{
   margin: 0;
   padding: 0;
